@@ -1,6 +1,6 @@
-package matcher.service;
+package com.powermock.matcher.service;
 
-import matcher.dao.UserDao;
+import com.powermock.matcher.dao.UserDao;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.ArgumentMatcher;
